@@ -1,5 +1,4 @@
-# Wine-testing
-Exploratory Analysis of Wine Testing Dataset
+# Exploratory Analysis of Wine Testing Dataset
 
 The case study on wine testing involves analyzing a dataset of over 100,000 wine reviews from different tasters around the world. The objective of the analysis is to understand the relationship between various attributes such as wine variety, country of origin, price range, and ratings.
 
