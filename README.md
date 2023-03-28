@@ -1,9 +1,18 @@
 # Wine-testing
 Exploratory Analysis of Wine Testing Dataset
 
-Dataset link : https://www.mavenanalytics.io/data-playground?search=wine
+The case study on wine testing involves analyzing a dataset of over 100,000 wine reviews from different tasters around the world. The objective of the analysis is to understand the relationship between various attributes such as wine variety, country of origin, price range, and ratings.
 
-Dataset preview:
+The analysis involves using pivot tables, vlookup, countif, and averageif functions to group the data and calculate the average ratings, prices, and testing count of different wine varieties, tasters, and countries.
+
+The findings of the analysis include identifying the top 10 wine varieties with the highest average ratings, the top 10 countries with the highest average wine prices, the top 10 wineries with the highest number of wine varieties, and the relationship between price ranges and ratings.
+
+The analysis also involves creating visualizations in the form of charts and graphs to better understand the data and communicate the insights to stakeholders. Overall, the case study showcases the power of data analysis in the wine industry and how it can help improve decision-making and drive business success.
+
+
+# Dataset link : https://www.mavenanalytics.io/data-playground?search=wine
+
+# Dataset preview:
 ![image](https://user-images.githubusercontent.com/107685839/228315496-ab32c481-7974-4b63-a44d-ed4ed652ba43.png)
 
 
