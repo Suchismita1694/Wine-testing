@@ -59,4 +59,13 @@ The analysis also involves creating visualizations in the form of charts and gra
 ![image](https://user-images.githubusercontent.com/107685839/228320657-510b7e61-d33b-4817-8789-9f78cd417697.png)
 
 
+# 11.  I used a pivot table to display the average rating and count of wines for each variety, specifically highlighting the Sangiovese Grosso variety. This variety was chosen as it has the highest rating among wines that have undergone more than 500 tests. Additionally, a few descriptions of wines under this variety were included in the analysis.
+
+
+![image](https://user-images.githubusercontent.com/107685839/228325203-4421afcf-9a53-4eee-9994-04372a4dfb0e.png)
+
+# 12. I utilized a pivot table to identify the wine variety with the lowest average rating and then narrowed it down to the least ranked wine with more than 500 tests conducted. The resulting table shows Pinot Grigio as the variety with the lowest average rating of 86.24 out of 100, with a total of 1,052 wines tested. The table also includes descriptions of some of the tested wines, which have received ratings as low as 80, indicating poor quality and flavor profile, including being overly sweet or lacking in depth and complexity.
+
+![image](https://user-images.githubusercontent.com/107685839/228326048-eee0f2b0-3d2f-44ca-a1b7-b8f750bedf19.png)
+
 
