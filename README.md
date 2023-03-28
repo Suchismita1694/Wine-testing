@@ -9,7 +9,7 @@ The findings of the analysis include identifying the top 10 wine varieties with 
 The analysis also involves creating visualizations in the form of charts and graphs to better understand the data and communicate the insights to stakeholders. Overall, the case study showcases the power of data analysis in the wine industry and how it can help improve decision-making and drive business success.
 
 
-# Dataset link : https://www.mavenanalytics.io/data-playground?search=wine
+## Dataset link : https://www.mavenanalytics.io/data-playground?search=wine
 
 ### Dataset preview:
 ![image](https://user-images.githubusercontent.com/107685839/228315496-ab32c481-7974-4b63-a44d-ed4ed652ba43.png)
